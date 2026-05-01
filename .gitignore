@@ -1,0 +1,13 @@
+.DS_Store
+.obsidian/
+.trash/
+00-System/
+Templates/
+
+public/
+node_modules/
+.quartz/node_modules/
+
+*.base
+**/quality-report.json
+**/*.quality-report.json
