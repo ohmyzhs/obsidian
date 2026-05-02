@@ -10,4 +10,5 @@ title: Oh My ZHS
 
 - [[00-Start Here]]
 - [[Oh My ZHS/Posts/README|Posts]]
+- [[Oh My ZHS/Plans/2026-05-02 도구 벤치마크 전체 인벤토리|도구 벤치마크 전체 인벤토리]]
 - [[Daily/2026-04-24]]
